@@ -1,0 +1,9 @@
+perro=dog
+gato=cat
+diablo=lucifer
+mesa=table
+caballo=horse
+cama=bed
+billetera=wallet
+amor=love
+beso=kiss
